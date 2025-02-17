@@ -1,4 +1,6 @@
-# ETH Zürich LaTeX cheat sheet Template
+# Advanced CFD Methods cheet sheet
+
+A cheet sheet for the Advanced CFD Methods lecture at ETH Zurich spring semester 2025
 
 ## Lightweight branch
 
